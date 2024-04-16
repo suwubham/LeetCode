@@ -14,6 +14,8 @@ class Solution:
         # one liner
         return [nums[i] for i in nums]
 
+    # Todo: Solution in constant space
+
 
 s = Solution()
 nums = [0, 2, 1, 5, 3, 4]
