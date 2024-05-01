@@ -3,7 +3,6 @@
 class Solution:
     def maximum69Number(self, num: int) -> int:
         numm = list(str(num))
-        print(numm)
         for index, n in enumerate(numm):
             if n == "6":
                 numm[index] = "9"
