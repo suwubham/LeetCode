@@ -8,7 +8,7 @@ Welcome to my LeetCode problem solutions repository! Here, I'll be sharing my so
 
 ## Disclaimer
 
-- **Honor Code**: While this repository provides solutions to problems, it's essential to understand that LeetCode is a platform for learning and practicing coding skills. It's recommended to try solving the problems on your own before referring to external solutions.
+- While this repository provides solutions to problems, it's essential to understand that LeetCode is a platform for learning and practicing coding skills. It's recommended to try solving the problems on your own before referring to external solutions.
 
 ## Contact
 
