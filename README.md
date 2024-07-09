@@ -12,4 +12,4 @@ Welcome to my LeetCode problem solutions repository! Here, I'll be sharing my so
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me via [email](mailto:shubhamshakya369@gmail.com). Thank you
+If you have any questions, suggestions, or feedback, feel free to reach out to me via [email](mailto:shubhamshakya369@gmail.com).
